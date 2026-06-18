@@ -200,7 +200,7 @@ Environmental-Sensor-Knowledge-Graph-Anomaly-Detection
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<username>/Environmental-Sensor-Knowledge-Graph-Anomaly-Detection.git
+https://github.com/SanjanaKozhipurath/Environmental-Sensor-Knowledge-Graph-Anomaly-Detection.git
 cd Environmental-Sensor-Knowledge-Graph-Anomaly-Detection
 ```
 
