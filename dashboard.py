@@ -8,7 +8,7 @@ import tempfile
 import os
 from neo4j import GraphDatabase
 
-driver = GraphDatabase.driver("<neo4j_connection_string>", auth=("neo4j", "password"))
+driver = GraphDatabase.driver("<neo4j_connection_URI>", auth=("neo4j", "password"))
 
 def run_query(query, **kwargs):
     with driver.session() as session:
