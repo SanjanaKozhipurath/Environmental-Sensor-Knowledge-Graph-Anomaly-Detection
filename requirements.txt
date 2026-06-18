@@ -1,0 +1,6 @@
+neo4j
+pandas
+streamlit
+plotly
+networkx
+pyvis
