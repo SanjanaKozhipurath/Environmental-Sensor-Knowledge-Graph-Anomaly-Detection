@@ -10,7 +10,7 @@ The system also includes an interactive Streamlit dashboard for monitoring senso
 
 ## Objectives
 
-* * Capture relationships between sensors, devices, rooms, floors, buildings and HVAC zones and model environmental sensor infrastructure using a Neo4j Knowledge Graph.
+* Capture relationships between sensors, devices, rooms, floors, buildings and HVAC zones and model environmental sensor infrastructure using a Neo4j Knowledge Graph.
 * Detect anomalies in sensor measurements using threshold-based analysis.
 * Reduce false positives through graph-based contextual validation.
 * Provide interactive visualization and monitoring through a Streamlit dashboard.
