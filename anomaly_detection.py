@@ -1,7 +1,7 @@
 from neo4j import GraphDatabase
 from datetime import datetime, timedelta
 
-driver = GraphDatabase.driver("neo4j://127.0.0.1:7687", auth=("neo4j", "password"))
+driver = GraphDatabase.driver("<neo4j_connection_string>", auth=("neo4j", "password"))
 
 thresholds = {
     'Temperature': 34.1,
